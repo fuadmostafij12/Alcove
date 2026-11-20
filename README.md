@@ -6,7 +6,7 @@ This repository hosts official release binaries. App source lives elsewhere.
 
 ## Download
 
-**APK:** [Alcove](https://github.com/fuadmostafij12/Alcove/releases/download/v1.0.0/app-release.apk))
+**APK:** [Alcove](https://github.com/fuadmostafij12/Alcove/releases/download/v1.0.0/app-release.apk)
 
 **Latest release:** [Releases → Latest](https://github.com/fuadmostafij12/Alcove/releases/latest)
 
